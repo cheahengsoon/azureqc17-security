@@ -5,5 +5,4 @@ Slides : https://github.com/zigmax/azureqc17-security/blob/master/AzureQC17_Secu
 
 Demo : Azure KeyVault : https://github.com/zigmax/azureqc17-security/tree/master/AzureKeyVault_Demo
 
-Demo : Azure Security Center
 
